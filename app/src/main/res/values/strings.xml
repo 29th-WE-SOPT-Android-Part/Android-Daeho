@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">AndroidSeminar1</string>
+
+    <!--signin page-->
+
+    <string name="sopthub">SOPTHub</string>
+    <string name="login">로그인</string>
+    <string name="id">아이디</string>
+    <string name="password">비밀번호</string>
+    <string name="input_id">아이디를 입력해주세요</string>
+    <string name="input_password">비밀번호를 입력해주세요</string>
+    <string name="signup">회원가입</string>
+
+    <!--signup page-->
+    <string name="name">이름</string>
+    <string name="input_name">이름을 입력해주세요</string>
+    <string name="sign_complete">회원가입 완료</string>
+
+    <!--home_activity-->
+    <string name="kimdaeho">김대호</string>
+    <string name="age">나이</string>
+    <string name="old">23</string>
+    <string name="mbti">MBTI</string>
+    <string name="entj">ENTJ</string>
+    <string name="introduce">Kotlin으로 안드로이드 개발을 시작해 설랩니다.</string>
+
+
+</resources>
